@@ -4,7 +4,7 @@ The TNU (Terminal is Not Unix) is a fork of the Linux kernel for learning inspir
 
 Goals we want to achieve with the construction of this kernel:
 
-        Create a Hybrid-Kernel, basaed of linux.
+        Create a Hybrid-Kernel, basaed of linux. ✓
         Easy read the code source.
         Stable kernel and functional.                                                                 
         Run to Intel MMX of the maximus rending.
