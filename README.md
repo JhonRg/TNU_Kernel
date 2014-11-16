@@ -13,6 +13,7 @@ Goals we want to achieve with the construction of this kernel:
         Deveploving the "Avanced Security Modules" (ASM) (PAM or SELinux).
         Root's User of the kernel.
         POSIX:2008 and UNIX 03 Standard.
+        Kernel Mode Setting of VGA.
   
 ====
 Project created by "Destinity OS & Amaya OS Team's"
